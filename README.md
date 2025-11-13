@@ -4,7 +4,7 @@ Este proyecto es una mini aplicación web que muestra un boletín/volante. Está
 
 La imagen a continuación corresponde al boletín incluido en el proyecto.
 
-![Boletín](src/assets/boletin.PNG)
+![Boletín](PruebaBI/bi-volante/src/assets/boletin.png)
 
 ## ¿Qué es React y por qué lo usé?
 - **Qué es React:** una biblioteca de JavaScript creada por Meta para construir interfaces de usuario. Permite dividir la pantalla en piezas pequeñas llamadas “componentes” y actualizar solo lo que cambia, haciendo la app rápida y fluida.
